@@ -4,14 +4,8 @@
 /node_modules
 /.pnp
 .pnp.js
-/uploads/*
-/!uploads/.gitkeep
-
-# testing
-/coverage
-
-# production
-/build
+./uploads/*
+./!uploads/.gitkeep
 
 # misc
 .DS_Store
